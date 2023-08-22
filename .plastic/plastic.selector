@@ -1,0 +1,4 @@
+repository "Space Shooter Pro@camiloalejo2006@cloud"
+  path "/"
+    br "/main"
+    co "/main"
